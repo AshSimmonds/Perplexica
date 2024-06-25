@@ -25,10 +25,6 @@ Using SearxNG to stay current and fully open source, Perplexica ensures you alwa
 
 Want to know more about its architecture and how it works? You can read it [here](https://github.com/ItzCrazyKns/Perplexica/tree/master/docs/architecture/README.md).
 
-## Preview
-
-![video-preview](.assets/perplexica-preview.gif)
-
 ## Features
 
 - **Local LLMs**: You can make use local LLMs such as Llama3 and Mixtral using Ollama.
